@@ -1,0 +1,10 @@
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGOUT = "LOGOUT";
+export const ONLOAD = "ONLOAD";
+export const LOAD_PARA = "LOAD_PARA";
+export const LOAD_JOB = "LOAD_JOB";
+export const INITIALIZE="INITIALIZE";
+export const CLEARDATA="CLEARDATA";
+export const CLEAR_ALL_REDUCERS_DATA="CLEAR_ALL_REDUCERS_DATA";
+export const SETLANGUAGE="SETLANGUAGE";
+export const SETWORKTYPE="SETWORKTYPE";
